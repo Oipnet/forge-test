@@ -12,5 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('homepage');
+    $posts = App\Post::all();
+    
+    return view('homepage', compact('posts'));
 });

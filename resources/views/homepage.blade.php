@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Test de laravel forge</h1>
+    {{ dump($posts->first()) }}
 </body>
 </html>
