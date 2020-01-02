@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    $posts = App\Post::all();
-    
-    return view('homepage', compact('posts'));
+    $works = App\Work::all();
+
+    return view('homepage', compact('works'));
 });
