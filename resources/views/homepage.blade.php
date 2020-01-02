@@ -52,5 +52,37 @@
                 </div>
             </div>
         </div>
+        <div class="site-section" id="about-section">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 mb-5">
+                        <img src="images/glint_about_1.jpg" alt="Image" class="img-fluid">
+                    </div>
+                    <div class="col-lg-5 ml-auto section-title">
+                        <h2 class="sub-title mb-2 d-block">Qui suis-je ?</h2>
+                        <h3 class="title text-primary mb-3">A propos de moi</h3>
+                        <p class="mb-4">
+                            Developpeur indépendant depuis 2016. Depuis mon bureau installé dans le Sud-Gironde
+                            j'interviens dans la réalisation de vos projet des sa conception à sa livraison
+                        </p>
+
+                        <div class="d-flex">
+                            <ul class="list-unstyled ul-check success mr-5">
+                                <li>Conception</li>
+                                <li>Developpement</li>
+                                <li>Audit</li>
+
+                            </ul>
+                            <ul class="list-unstyled ul-check success">
+
+                                <li>Application mobile</li>
+                                <li>Deploiement</li>
+                                <li>Référencement</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 @endsection

@@ -24,7 +24,7 @@
                 <ul class="site-menu main-menu js-clone-nav d-none d-lg-none">
                 <li><a href="#home-section" class="nav-link">Accueil</a></li>
                 <li><a href="#what-we-do-section" class="nav-link">Mon metier</a></li>
-                <li><a href="#about-section" class="nav-link">About Us</a></li>
+                <li><a href="#about-section" class="nav-link">A propos</a></li>
                 <li><a href="#portfolio-section" class="nav-link">Portfolio</a></li>
                 <li><a href="#studio-section" class="nav-link">Gallery</a></li>
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
